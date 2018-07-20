@@ -1,6 +1,6 @@
 # makeCacheMatrix is a functon to set the value of a matrix,
 # get the value of the matrix, set the value of the inverse 
-# get the value of the inverse
+# and get the value of the inverse
 
 makeCacheMatrix <- function(x = matrix()) {
     matinv <- NULL
